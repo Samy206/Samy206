@@ -12,6 +12,11 @@ Software Engineer since September 2023.
 - Python
 - SQL
 - C, C++
+- NodeJs
+- ExpressJs
+- Microsoft Azure
+- AWS
+- Cyber security
 - ABAP
 - CI/CD
 - Angular
