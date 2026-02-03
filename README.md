@@ -30,15 +30,15 @@
 
 
 ## Current Projects
-:books: **[Books REST API](https://github.com/Samy206/Book-REST-API)** - Book REST API / NodeJS - ExpressJS - **[Certified](https://www.coursera.org/account/accomplishments/verify/CS5QSYMDJ26T)
-:bank:  **[Bank REST API](https://github.com/Samy206/Bank-Account-API-Hexagonal-architecture)** - Bank REST API with hexagonal architecure / SpringBoot
-:video_game: **[Android Game](https://github.com/Samy206/Android-Day)** - Little android game / Java
-:dog: **[Dog breed guessing game](https://github.com/Samy206/Dog-breed-guessing-game)** - Using REST API to get picture of dogs to guess their breed / C# - Angular
-:chart: **[Vectorial evaluation](https://github.com/Samy206/Evaluation_vectorielle)** - Mathematical tool to draw a function curve based on an initial vecto / C - C++ - QT - Python - PyQT - Cmake - Qmake
+- :books: **[Books REST API](https://github.com/Samy206/Book-REST-API)** - Book REST API / NodeJS - ExpressJS - **[Certified](https://www.coursera.org/account/accomplishments/verify/CS5QSYMDJ26T)
+- :bank:  **[Bank REST API](https://github.com/Samy206/Bank-Account-API-Hexagonal-architecture)** - Bank REST API with hexagonal architecure / SpringBoot
+- :video_game: **[Android Game](https://github.com/Samy206/Android-Day)** - Little android game / Java
+- :dog: **[Dog breed guessing game](https://github.com/Samy206/Dog-breed-guessing-game)** - Using REST API to get picture of dogs to guess their breed / C# - Angular
+- :chart: **[Vectorial evaluation](https://github.com/Samy206/Evaluation_vectorielle)** - Mathematical tool to draw a function curve based on an initial vecto / C - C++ - QT - Python - PyQT - Cmake - Qmake
 
 ## Connect
-[![LinkedIn](https://img.shields.io/badge/-Peter_Steinberger-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samy-boumali/)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Samy206)
+[![LinkedIn]](https://www.linkedin.com/in/samy-boumali/)
+[![GitHub]](https://github.com/Samy206)
 
 ### Philosophy
 > Do things.
