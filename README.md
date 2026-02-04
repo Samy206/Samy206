@@ -29,7 +29,7 @@
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
 
-## Current Projects
+## Projects
 - :books: **[Books REST API](https://github.com/Samy206/Book-REST-API)** - Book REST API / NodeJS - ExpressJS - **[Certified](https://www.coursera.org/account/accomplishments/verify/CS5QSYMDJ26T)**
 - :bank:  **[Bank REST API](https://github.com/Samy206/Bank-Account-API-Hexagonal-architecture)** - Bank REST API with hexagonal architecure / SpringBoot
 - :video_game: **[Android Game](https://github.com/Samy206/Android-Day)** - Little android game / Java
